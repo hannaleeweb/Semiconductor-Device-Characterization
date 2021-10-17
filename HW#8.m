@@ -18,3 +18,4 @@ f = inline ('2*x', 'x')
 % swop(x,y)
 
 f = inline ('y.^2 + x.^2', 'y', 'x');
+
